@@ -104,7 +104,7 @@ sections:
     title: Latest Posts
 seo:
   title: Rudrank Riyam
-  description: The preview of the Azimuth theme
+  description: Portfolio
   extra:
     - name: 'og:type'
       value: website
