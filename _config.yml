@@ -114,3 +114,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://pleasant-wallaby-06e0a.netlify.app'
