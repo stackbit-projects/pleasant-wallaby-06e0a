@@ -4,7 +4,7 @@ permalink: '/:title/'
 collections:
   posts:
     permalink: '/posts/:title/'
-base_font: nunito-sans
+base_font: system-sans
 palette: purple
 header:
   logo_img: images/logo.svg
